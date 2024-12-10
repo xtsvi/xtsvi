@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# Oleksandr Tsvirko
+# Alexander
 
 ## 👨‍💻 About Me
 
-Hello! I am Oleksandr Tsvirko, a Python Developer with a strong background in data analysis and web development. I am passionate about creating efficient, scalable, and innovative solutions to complex problems. My work primarily focuses on backend development, API creation, and database integration using modern Python frameworks.
+Hello! I am a Python Developer with a strong background in data analysis and web development. I am passionate about creating efficient, scalable, and innovative solutions to complex problems. My work primarily focuses on backend development, API creation, and database integration using modern Python frameworks.
 
 ## 💻 Skills
 
